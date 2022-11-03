@@ -6,3 +6,8 @@
 - Studying **Diploma in CyberSecurity and Digital Forensic**
 
 ~~I quite bad at coding so don't judge please~~
+
+### Vim Setup
+- init.vim is my neovim setup file
+- not sure does it work with vim
+- requires vim plug (https://github.com/junegunn/vim-plug)
